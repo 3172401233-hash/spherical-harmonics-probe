@@ -1,0 +1,11 @@
+{
+  "name": "spherical-harmonics-probe",
+  "version": "0.1.0",
+  "description": "Order-2 spherical harmonics lighting probes: projection, rotation, irradiance reconstruction",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
